@@ -8,7 +8,7 @@ name = "python"
 for i in name:
     print(i)
 
-student = {"name": "Devendra", "age": 22}
+student = {"name": "SAhil", "age": 22}
 
 for key, value in student.items():
     print(key, value)
